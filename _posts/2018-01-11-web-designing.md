@@ -8,8 +8,6 @@ featured: true
 hidden: true
 ---
 
-## What Is Website Designing?
-
 A web site is a related collection of World Wide Web files that includes a beginning file
 called a home page or Index page. A company or an individual tells you how to get to their
 Web site by giving you the address of their home page. From the home page, you can get to
@@ -21,6 +19,9 @@ web site. In static website page is define as a statically and contains remains 
 special designing. And in dynamic website the content is change as per the requirements
 and includes the dynamic web forms that’s take information from the user and collect the
 details.
+
+## What Is Website Designing?
+
 
 Now days a website is designing with a HTML, CSS, and Java script as a validation purpose.
 For an effective website HTML is use with a CSS style that’s a very accurate in designing and
