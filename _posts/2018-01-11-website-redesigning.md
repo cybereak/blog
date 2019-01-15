@@ -2,7 +2,7 @@
 layout: post
 title:  "Website Redesigning"
 
-categories: [ Jekyll, tutorial ]
+categories: [ Web, Design ]
 image: assets/images/Redesigning-Website.jpg
 featured: true
 hidden: true

@@ -2,7 +2,7 @@
 layout: post
 title:  "Web Designing"
 
-categories: [ Jekyll, tutorial ]
+categories: [ Web, Design ]
 image: assets/images/web-design.jpg
 featured: true
 hidden: true
