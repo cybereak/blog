@@ -4,7 +4,7 @@ title:  "Web Designing"
 
 categories: [ Web, Design ]
 image: assets/images/web-design.jpg
-featured: false
+
 hidden: true
 ---
 
