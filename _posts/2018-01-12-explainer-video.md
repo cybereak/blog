@@ -2,7 +2,7 @@
 layout: post
 title:  "Animated Explainer Videos"
 
-categories: [ Marketing SEO ]
+categories: [ explainer-video]
 image: assets/images/explainer-video.jpg
 ---
 These animated marketing videos will help to explain your business and value propositions. But not
