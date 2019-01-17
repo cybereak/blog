@@ -3,41 +3,46 @@ layout: post
 title:  "SEO - Rank Your Page High In Search Engine "
 
 categories: [ Marketing, SEO ]
-image: assets/images/seo.jpg
+image: assets/images/logo-design.jpg
 ---
-Search Engine Optimization (SEO) is the process of affecting the visibility of website or a web page in
-search engine and provide a result on top search .Using SEO we can receive the higher ranked on
-the search engine page and its more frequently a site appears in the search result list, the more
-visitors it will receive from the search engine&#39;s users. In many respects it&#39;s simply quality control for
-websites. Having said that, if there was ever an industry that was little understood by outsiders its
-SEO
+Logo designing is a well known activity more than 150+ years .The current era of logo design began
+in the 1870 with the first abstract logo, the Bass red triangle. Now a day there are many types of logo
+is available in markets like corporations, products, brands, services, agencies and other entities use
+an ideogram or an emblem or a combination of sign and emblem as a logo. An effective logo may
+consist of both an ideogram and the company name to emphasize the name over the graphic, and
+employ a unique design via the use of letters, colours, and additional graphic elements.
 
-# Why does my website need SEO?
+#Why Logo Designing:
 
-Majority of web traffic is driven by the major commercial search engines, Google, Bing, and Yahoo!
-Although social media and other types of traffic can generate visits to your website, search engines
-are the primary method of navigation for most Internet users. This is true whether your site provides
-content, services, products, information, or just about anything else. Search engines are unique in
-that they provide targeted traffic—people looking for what you offer. Search engines are the roadways
-that make this happen. If search engines cannot find your site, or add your content to their databases,
-you miss out on incredible opportunities to drive traffic to your site.
-Search queries—the words that users type into the search box—carry extraordinary value.
-Experience has shown that search engine traffic can make (or break) an organization&#39;s success.
-Targeted traffic to a website can provide publicity, revenue, and exposure like no other channel of
-marketing. Investing in SEO can have an exceptional rate of return compared to other types of
-marketing and promotion.
+Logo designing is an important area of Graphics Designing and it’s more difficult to make a perfect in
+size and colour wise. Every organization has a one Image and using that image every person know
+him in market that’s a more important key features of a logo designing. Exact meaning of logo is
+representing a company’s particular brand or corporate Identity. Every company want their growth in
+market with some special demand in markets that’s why logo is a more important.
+Logo colour is a none of the more important for a brand differentiation in the market. And logo colour
+is a key factor for logo and that’s define the property and easy to understand the feeling of logo. The
+importance of colour in this context is due to the mechanics of human visual perception wherein
+colour and contrast play critical roles in visual detail detection.
+In addition various colour connotations and colour associations through social and cultural
+conditioning. Logo colour is considered important brand recognition in logo design.
+Logo designing also more important for a marketing team member that’s why logo is designing as per
+the marketing person requirement. Logo clears every idea and concepts about brands and easy to
+understood to the customers and customers attracts that way. In Logo Designing process is perform
 
-#Why can&#39;t the search engines figure out my site without SEO?
+steps by steps like formulating the concepts, doing an initial designing make a related update, finalize
+the logo concepts.
 
-Search engines are smart, but they still need help. The major engines are always working to improve
-their technology to crawl the web more deeply and return better results to users. However, there is a
-limit to how search engines can operate. Whereas the right SEO can net you thousands of visitors
-and increased attention, the wrong moves can hide or bury your site deep in the search results where
-visibility is minimal.
-In addition to making content available to search engines, SEO also helps boost rankings so that
+#Key features For a Logo Designing:?
 
-content will be placed where searchers will more readily find it. The Internet is becoming increasingly
-competitive, and those companies who perform SEO will have a decided advantage in visitors
+Key Features of a logo designing is a logo should be design simple colour and should be flexible to fit
+in media. Logo should be proper visualized in Company cover letter, letterhead, ads on paper or email
+logo should be looks outstanding in different size. Logo is a designing with perfect colour combination
+that’s more important and Logo is Unique in Market.
+Logo design is a significant trademark for a company which represents your identity in the corporate
+sector and reflects the current status of a company. We are the service provider in the market. We are
+8+ years experience in the markets we are get requirements from our clients and we are provide a
+best solution in markets. We have a more experience logo designer team that will definitely help your
+organization to grow your business.
 
 #Types of SEO:
 As the colours of the types of search engine optimization suggest, there are stark differences in the

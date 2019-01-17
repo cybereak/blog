@@ -3,62 +3,46 @@ layout: post
 title:  "SEO - Rank Your Page High In Search Engine "
 
 categories: [ Marketing, SEO ]
-image: assets/images/seo.jpg
+image: assets/images/banner-design.png
 ---
-Search Engine Optimization (SEO) is the process of affecting the visibility of website or a web page in
-search engine and provide a result on top search .Using SEO we can receive the higher ranked on
-the search engine page and its more frequently a site appears in the search result list, the more
-visitors it will receive from the search engine&#39;s users. In many respects it&#39;s simply quality control for
-websites. Having said that, if there was ever an industry that was little understood by outsiders its
-SEO
+Banner Designing is a one of the more strategy in the market. So, create an effective banner design
+you need to look at the workflow as a whole process. The process of a successful banner designing is
+a starts the planning of the campaign banner and ends at the closing of a sale or the intended overall
+goal of the banner. Knowing how to design a banner ad is only one component for creating an
+effective banner ad campaign. Other elements such as placement and creating effective landing
+pages are also important. This guide will focus on how to design banner as per the markets
+Requirements.
 
-# Why does my website need SEO?
+# Why Banner Design?
 
-Majority of web traffic is driven by the major commercial search engines, Google, Bing, and Yahoo!
-Although social media and other types of traffic can generate visits to your website, search engines
-are the primary method of navigation for most Internet users. This is true whether your site provides
-content, services, products, information, or just about anything else. Search engines are unique in
-that they provide targeted traffic—people looking for what you offer. Search engines are the roadways
-that make this happen. If search engines cannot find your site, or add your content to their databases,
-you miss out on incredible opportunities to drive traffic to your site.
-Search queries—the words that users type into the search box—carry extraordinary value.
-Experience has shown that search engine traffic can make (or break) an organization&#39;s success.
-Targeted traffic to a website can provide publicity, revenue, and exposure like no other channel of
-marketing. Investing in SEO can have an exceptional rate of return compared to other types of
-marketing and promotion.
+Define the goal of the banner designing when design the banner. Without Defining goal your banner
+will be nothing more than Pretty click through Picture. The aim of the designing Banner ingress the
+performance and Build the brands awareness to the Viewers. Creating a new Banner means a
+targeting an audience and design with proper view.
+At a banner design time you should think about what information and resources you need in order
+to create your banner. Collect the proper information from the clients and apply that information for
+a designing and create a banner. You should decide what sizes you are going to make, how many
+different versions and different languages the banner needs to be in. You should also decide if your
+banner ad is going to be made in HTML5 or flash or both. For example, Do you want to design a
+banner you should know what time it will take to design the banner and someone to translate the
+banners into different languages. You should also find out when you’re deadline to create the
+banner is and how much time that you’re going to spend on the project. That’s act the Major role in
+the banner designing.
 
-#Why can&#39;t the search engines figure out my site without SEO?
+#Property use in Design a Banner:
 
-Search engines are smart, but they still need help. The major engines are always working to improve
-their technology to crawl the web more deeply and return better results to users. However, there is a
-limit to how search engines can operate. Whereas the right SEO can net you thousands of visitors
-and increased attention, the wrong moves can hide or bury your site deep in the search results where
-visibility is minimal.
-In addition to making content available to search engines, SEO also helps boost rankings so that
-
-content will be placed where searchers will more readily find it. The Internet is becoming increasingly
-competitive, and those companies who perform SEO will have a decided advantage in visitors
-
-#Types of SEO:
-As the colours of the types of search engine optimization suggest, there are stark differences in the
-approach and long-term results of white hat and black hat search engine optimization. Though both
-types of SEO have their proponents, most companies/websites with long-term, stable, and
-sustainable goals will tend to stay away from the dark-collared variety.
-
-
-1. White Hat SEO:
-Some white hat SEO techniques include: high quality content development, website
-HTML optimization and restructuring, link acquisition campaigns supported by high quality content
-and manual research and outreach. White hat SEO utilizes techniques and methods to improve the
-search engine rankings of a website which don&#39;t run afoul of search engine (mainly Google)
-guidelines.
-
-
-2. Black Hat SEO:
-Some black hat SEO techniques include: link spam, keyword stuffing, cloaking,
-hidden text, and hidden links. Black Hat SEO exploits weaknesses in the search engine algorithms to
-obtain high rankings for a website. Such techniques and methods are in direct conflict with search
-engine guidelines.
+More important Part in create a banner is choose a font that is easily to read. The colour of your text
+is also important because this will help with the readability of your banner. Make sure your font
+stands out on your banner background. The same goes for font size and spacing. Text that is too
+small will be missed, and font that is placed too close together cannot be read easily. Images and
+graphics can be a great way to help make your banner ad more attractive and eye-catching for
+viewers. Animations are the final element of visual design you should take into consideration when
+trying to improve your banner ad design.
+Banner design is a significant trademark for a company which fully role and responsibility that’s
+represents working ability and accuracy of your work to be complete on time with a given deadline.
+We are the service provider in the market. We are 8+ years experience in the markets we are get
+requirements from our clients and we are provide a best solution in markets. We have a more
+experience logo designer team that will definitely help your organization to grow your business..
 
 #Know more?
 
