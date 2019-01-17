@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SEO - Rank Your Page High In Search Engine "
+title:  "Logo Design"
 
 categories: [ Marketing, SEO ]
 image: assets/images/logo-design.jpg

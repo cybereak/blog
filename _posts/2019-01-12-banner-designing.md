@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SEO - Rank Your Page High In Search Engine "
+title:  "Banner Designing "
 
 categories: [ Marketing, SEO ]
 image: assets/images/banner-design.png
