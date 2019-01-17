@@ -5,7 +5,7 @@ title:  "Website Redesigning"
 categories: [ Web, Design ]
 image: assets/images/Redesigning-Website.jpg
 
-hidden: true
+
 ---
 Website redesigning is the process if update already existing web site to newly design website as per
 

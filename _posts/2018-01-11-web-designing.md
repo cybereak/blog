@@ -5,7 +5,7 @@ title:  "Web Designing"
 categories: [ Web, Design ]
 image: assets/images/web-design.jpg
 
-hidden: true
+
 ---
 
 A web site is a related collection of World Wide Web files that includes a beginning file
