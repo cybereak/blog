@@ -3,7 +3,7 @@ layout: post
 title:  "Ways To Constantly Improve Yourself"
 
 categories: [ Marketing, SEO ]
-image: assets/images/improve.jpg
+image: assets/images/improve.png
 ---
 #What are ways to constantly improve?
 
